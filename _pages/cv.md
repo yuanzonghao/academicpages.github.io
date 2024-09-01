@@ -39,7 +39,7 @@ redirect_from:
   * C++(entry level)
 
 # Others
-Core menber of [THUBA](https://x.com/THUBA_DAO)'s research track. I hope to conduct research on blockchain and web3 related to complex science in the future, if lucky enough.
+Core menber of [THUBA](https://x.com/THUBA_DAO)'s research track. I hope to conduct research on blockchain and web3 related to complex science in the future.
 
 <!-- Publications
 ======
