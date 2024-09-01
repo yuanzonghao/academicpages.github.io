@@ -9,39 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* M.S. in [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2026(expected), major in sociology
+* B.BA. in [Renmin University of China](https://en.ruc.edu.cn/), 2023, major in Industrial Relations(GPA: 3.65/4.0)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# Work experience
+
+* Fall 2024: Teaching Assistant
+  * Tsinghua University, Introduction to Science and Technology Ethics 
+  * Supervisor: Professor [Zhengfeng Li](https://www.sss.tsinghua.edu.cn/info/1043/3917.htm)
+
+* Summer 2024: Research Assistant(Part-time)
+  * Peking University, Department of Information Management
+  * Supervisor: Professor [Yi Bu](https://buyi08.wixsite.com/yi-bu)
+
+* Summer 2023: Intern
+  * [STTC, Ministry of Science and Technology of China](https://web.archive.org/web/20240617150731/https://www.italents.cn/)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Skills
 
-Publications
+* programming language
+  * R
+  * Stata
+  * Python
+  * SQL
+  * C++(entry level)
+
+# Others
+Core menber of [THUBA](https://x.com/THUBA_DAO)'s research track. I hope to conduct research on blockchain and web3 related to complex science in the future, if lucky enough.
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
