@@ -20,7 +20,7 @@ redirect_from:
 
 * Fall 2024: Teaching Assistant
   * Tsinghua University, Introduction to Science and Technology Ethics 
-  * Supervisor: Professor [Zhengfeng Li](https://www.sss.tsinghua.edu.cn/info/1043/3917.htm)
+  * Supervisor: Professor [Zhengfeng Li](https://www.soc.tsinghua.edu.cn/en/info/1041/1456.htm)
 
 * Summer 2024: Research Assistant(Part-time)
   * Peking University, Department of Information Management
