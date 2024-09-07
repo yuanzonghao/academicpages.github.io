@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am YuanZonghao. Currently a master's student at Tsinghua University, Department of Sociology.
+I am Zonghao Yuan. Currently a master's student at Tsinghua University, Department of Sociology.
 
 # Reasearch Interest
 
