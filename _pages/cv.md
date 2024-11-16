@@ -22,13 +22,10 @@ redirect_from:
   * Tsinghua University, Introduction to Science and Technology Ethics 
   * Supervisor: Professor [Zhengfeng Li](https://www.soc.tsinghua.edu.cn/en/info/1041/1456.htm)
 
-* Summer 2024: Research Assistant(Part-time)
+* March 2024 - now: Research Assistant(Part-time)
   * Peking University, Department of Information Management
   * Supervisor: Professor [Yi Bu](https://buyi08.wixsite.com/yi-bu)
 
-* Summer 2023: Intern
-  * [STTC, Ministry of Science and Technology of China](https://web.archive.org/web/20240617150731/https://www.italents.cn/)
-  
 # Skills
 
 * programming language
