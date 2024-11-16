@@ -25,9 +25,8 @@ In this study, I want to answer the questions below:
 - How do mentors' flat tendencies change when their academic age grows up, and whether the change differ between different features of mentors?
 - ...more to explore...
 
-## 2. The evolution of hierarchy degree within teams.
-This study is at the very beginning. Maybe flat teams mainly exist in new teams, and those that turns into hierarchical teams can survive longer, even at the expense of lower-ranking members' academic careers.
-
+## 2. The impact of information intervention on the willingness to use AI
+Using experimental economics methods, focus on gender equality in AI usage.
 
 # Works
 
