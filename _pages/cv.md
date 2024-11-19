@@ -22,7 +22,7 @@ redirect_from:
   * Tsinghua University, Introduction to Science and Technology Ethics 
   * Supervisor: Professor [Zhengfeng Li](https://www.soc.tsinghua.edu.cn/en/info/1041/1456.htm)
 
-* March 2024 - now: Research Assistant(Part-time)
+* March 2024 - now: Research Assistant
   * Peking University, Department of Information Management
   * Supervisor: Professor [Yi Bu](https://buyi08.wixsite.com/yi-bu)
 
