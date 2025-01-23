@@ -19,4 +19,4 @@ I am Zonghao Yuan. Currently a master student at Tsinghua University, Department
 <b>ValuesRAG: Enhancing Cultural Alignment Through Retrieval-Augmented Contextual Learning</b><br/>
 <u>W. Seo</u>\*, Z. Yuan\*, Y. Bu<sup>†</sup><br/>
 <i>Arxiv</i>. [[pdf]](https://arxiv.org/pdf/2501.01031)<br/>
-* indicates equal contribution
+/* indicates equal contribution
