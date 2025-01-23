@@ -18,22 +18,21 @@ redirect_from:
 
 # Work experience
 
-* Fall 2024: Teaching Assistant
-  * Tsinghua University, Introduction to Science and Technology Ethics 
-  * Supervisor: Professor [Zhengfeng Li](https://www.soc.tsinghua.edu.cn/en/info/1041/1456.htm)
-
 * March 2024 - now: Research Assistant
   * Peking University, Department of Information Management
   * Supervisor: Professor [Yi Bu](https://buyi08.wixsite.com/yi-bu)
 
+* Fall 2024: Teaching Assistant
+  * Tsinghua University, Introduction to Science and Technology Ethics 
+  * Supervisor: Professor [Zhengfeng Li](https://www.soc.tsinghua.edu.cn/en/info/1041/1456.htm)
+
 # Skills
 
 * programming language
-  * R
-  * Stata
   * Python
   * SQL
-  * C++(entry-level)
+  * R
+  * C++
 
 # Others
-Core member of [THUBA](https://x.com/THUBA_DAO)'s research track. I hope to research blockchain and web3 related to complex science in the future.
+Core member of [THUBA](https://x.com/THUBA_DAO)'s research track. 
