@@ -11,12 +11,12 @@ I am Zonghao Yuan. Currently a master student at Tsinghua University, Department
 
 # Reasearch Interest
 
-1. Computational Social Science
-2. Science of Science
-3. Intersectional Research on LLM and Society 
+- Computational Social Science
+- Science of Science
+- Intersectional Research on LLM and Society 
 
-# Works
-<b>ValuesRAG: Enhancing Cultural Alignment Through Retrieval-Augmented Contextal Learning</b><br/>
-<u>Z. Yuan</u>&#42;, <u>W. Seo</u>&#42;, Y. Bu<sup>†</sup><br/>
-<i>Arxiv</i>. [[pdf]](https://arxiv.org/pdf/2501.01031)<br/>
-&#42; indicates equal contribution
+# Academic Works
+**ValuesRAG: Enhancing Cultural Alignment Through Retrieval-Augmented Contextual Learning**  
+<u>Z. Yuan</u>&#42;, <u>W. Seo</u>&#42;, Y. Bu<sup>†</sup>  
+*arXiv*. [[PDF]](https://arxiv.org/pdf/2501.01031)  
+&#42; Indicates equal contribution  
