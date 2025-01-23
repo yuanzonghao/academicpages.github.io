@@ -11,9 +11,9 @@ I am Zonghao Yuan. Currently a master student at Tsinghua University, Department
 
 # Reasearch Interest
 
-1. computational social science
-2. science of science
-3. LLMs x society
+1. Computational Social Science
+2. Science of Science
+3. Intersectional Research on LLM and Society 
 
 # Works
 <b>ValuesRAG: Enhancing Cultural Alignment Through Retrieval-Augmented Contextual Learning</b><br/>
