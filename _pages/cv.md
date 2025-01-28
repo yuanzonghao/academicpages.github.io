@@ -18,7 +18,7 @@ redirect_from:
 
 # Work experience
 
-* March 2024 - now: Research Assistant
+* July 2024 - now: Research Assistant
   * Peking University, Department of Information Management
   * Supervisor: Professor [Yi Bu](https://buyi08.wixsite.com/yi-bu)
 
